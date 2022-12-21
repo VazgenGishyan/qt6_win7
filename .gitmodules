@@ -1,0 +1,16 @@
+[submodule "qtbase"]
+	path = qtbase
+	url = https://github.com/SanyaNya/qt6base_win7
+	branch = 6.4.1
+[submodule "qthttpserver"]
+	path = qthttpserver
+	url = https://github.com/qt/qthttpserver
+	branch = 6.4.1
+[submodule "qtserialport"]
+	path = qtserialport
+	url = https://github.com/qt/qtserialport
+	branch = 6.4.1
+[submodule "qtwebsockets"]
+	path = qtwebsockets
+	url = https://github.com/qt/qtwebsockets
+	branch = 6.4.1
