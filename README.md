@@ -40,7 +40,7 @@ Windows:
 
 ```
 cd <path>\<source_package>
-configure -prefix %CD%\qtbase
+configure -prefix %CD%\qtbase -D "WINVER=0x0601" -D "_WIN32_WINNT=0x0601" -D "NTDDI_VERSION=0x06010000" -D "_WIN32_IE=0x0800" -- "-DCMAKE_SYSTEM_VERSION=7"
 cmake --build .
 ```
 
