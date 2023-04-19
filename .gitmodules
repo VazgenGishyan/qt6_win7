@@ -14,3 +14,23 @@
 	path = qtwebsockets
 	url = https://github.com/qt/qtwebsockets
 	branch = 6.4.1
+[submodule "qtdeclarative"]
+	path = qtdeclarative
+	url = https://github.com/qt/qtdeclarative
+	branch = 6.4.1
+[submodule "qtimageformats"]
+	path = qtimageformats
+	url = https://github.com/qt/qtimageformats
+	branch = 6.4.1
+[submodule "qtshadertools"]
+	path = qtshadertools
+	url = https://github.com/qt/qtshadertools
+	branch = 6.4.1
+[submodule "qtsvg"]
+	path = qtsvg
+	url = https://github.com/qt/qtsvg
+	branch = 6.4.1
+[submodule "qtlanguageserver"]
+	path = qtlanguageserver
+	url = https://github.com/qt/qtlanguageserver
+	branch = 6.4.1
