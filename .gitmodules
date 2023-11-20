@@ -34,3 +34,6 @@
 	path = qtlanguageserver
 	url = https://github.com/qt/qtlanguageserver
 	branch = 6.4.1
+[submodule "qt5compat"]
+	path = qt5compat
+	url = https://github.com/qt/qt5compat
